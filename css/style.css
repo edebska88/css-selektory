@@ -1,0 +1,15 @@
+h1 {
+    background-color: cornflowerblue;
+}
+
+h3 {
+    background-color: darkcyan;
+}
+
+p {
+    color: chocolate;
+}
+
+h1+h3 {
+    background-color: yellow;
+}
